@@ -20,5 +20,5 @@
   - Example: `https://truthsocial.com/@someusername/posts/112784638860095397`
 - The plugin will automatically correct the URL (if necessary) and display the embedded post.
 
-- ### 3. No support
+### 3. No support
 - I ain't the guy. And use at your own risk.
